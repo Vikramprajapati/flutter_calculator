@@ -14,7 +14,11 @@ A simple calculator app built using Flutter. This project helped me practice UI 
 
 ## App Preview
 
-https://github.com/user-attachments/assets/82d144cb-cf90-4232-8d22-e1359ce3798a
+
+
+
+https://github.com/user-attachments/assets/ad5cafbe-5e34-44eb-84bd-470ab86472a2
+
 
 ## 🛠️ Technologies Used
 
